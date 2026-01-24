@@ -39,8 +39,7 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ivan-Ayub97&layout=compact&theme=dark&hide_border=true&langs_count=6&bg_color=0D1117&title_color=FF0000&text_color=FFFFFF" height="140" />
   </a>
 
-  <br><br>
-
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ivan-Ayub97&bg_color=0D1117&color=FF0000&line=FF0000&point=FFFFFF&area=true&hide_border=true" width="94%" alt="Activity Graph" />
 
 </div>
+
