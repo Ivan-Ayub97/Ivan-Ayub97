@@ -1,25 +1,13 @@
 <div align="center">
 
-  <h1>Hi there, I'm <a href="https://github.com/Ivan-Ayub97">Ivan Ayub</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/></h1>
-  
+  <h1>Hi there, I'm <a href="https://github.com/Ivan-Ayub97">Ivan E. C. Ayub</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/></h1>
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF0000&background=0D111700&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Open+Source+Enthusiast;Building+digital+solutions" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF0000&background=0D111700&center=true&vCenter=true&width=435&lines=Hobbyist+Python+Programmer;Open+Source+Enthusiast" alt="Typing SVG" />
   </a>
 
 </div>
 
 ---
-
-### 🛠️ Tech Stack
-
-<div align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-</div>
-
----
-
-### 📊 GitHub Stats
 
 <div align="center">
 
