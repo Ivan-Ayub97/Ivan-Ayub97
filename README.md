@@ -1,5 +1,3 @@
-![Ivan-Ayub97 banner](banner.png)
-
 <div align="center">
 
 <h3>🧠 Psychology by profession | 💻 Professional PC breaker by passion</h3>
@@ -12,3 +10,4 @@
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ivan-Ayub97&theme=dark&hide_border=true&background=0D1117&stroke=FF0000&ring=FFD700&fire=FFD700&currStreakLabel=FF0000&currStreakNum=FFD700&sideLabels=FFFFFF" height="165"/>
 
 </div>
+
