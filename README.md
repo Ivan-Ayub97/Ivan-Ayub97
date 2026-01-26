@@ -30,6 +30,7 @@
   <a href="https://github.com/Ivan-Ayub97">
     <img src="https://github-readme-stats.vercel.app/api?username=Ivan-Ayub97&show_icons=true&theme=dark&hide_border=true&rank_icon=github&bg_color=0D1117&title_color=FF0000&icon_color=FFD700&text_color=FFFFFF" height="165" />
   </a>
+  
   <a href="https://github.com/Ivan-Ayub97">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ivan-Ayub97&theme=dark&hide_border=true&background=0D1117&stroke=FF0000&ring=FFD700&fire=FFD700&currStreakLabel=FF0000&currStreakNum=FFD700&sideLabels=FFFFFF" height="165"/>
   </a>
@@ -42,5 +43,6 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ivan-Ayub97&bg_color=0D1117&color=FF0000&line=FF0000&point=FFFFFF&area=true&hide_border=true" width="94%" alt="Activity Graph" />
 
 </div>
+
 
 
