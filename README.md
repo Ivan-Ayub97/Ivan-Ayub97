@@ -6,12 +6,6 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF0000&background=0D111700&center=true&vCenter=true&width=435&lines=Hobbyist+Python+Programmer;Open+Source+Enthusiast" alt="Typing SVG" />
   </a>
 
-</div>
-
----
-
-<div align="center">
-
   <h3>🛠️ Languages & Tools</h3>
   
   <p>
@@ -43,6 +37,7 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ivan-Ayub97&bg_color=0D1117&color=FF0000&line=FF0000&point=FFFFFF&area=true&hide_border=true" width="94%" alt="Activity Graph" />
 
 </div>
+
 
 
 
