@@ -82,7 +82,7 @@
     </tr>
   </table>
 
-  <br>
+---
 
   <h3>🛠️ Technical Arsenal</h3>
 
@@ -114,7 +114,10 @@
     </tr>
   </table>
 
+---
+
 <br>
   <p style="font-size: 10px; color: #555;">© 2024 Ivan E. C. Ayub</p>
 
 </div>
+
