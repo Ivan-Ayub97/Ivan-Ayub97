@@ -10,9 +10,7 @@
 <div align="center">
   <p style="max-width: 650px; line-height: 1.6;">
     <span style="font-size: 1.15em; color: #FBC02D; font-family: 'Georgia', serif; font-style: italic;">
-      "We are the consciousness through which the universe comes to know itself; <br> 
-      knowledge is our most human inheritance, and its free exercise <br> 
-      the only path toward true evolution."
+      "Knowledge is our most human heritage, and its free exercise is the only way."
     </span>
     <br><br>
     <span style="font-size: 0.85em; color: #888888; letter-spacing: 2px; text-transform: uppercase;">
@@ -128,6 +126,7 @@
   <p style="font-size: 10px; color: #555;">© 2024 Ivan E. C. Ayub</p>
 
 </div>
+
 
 
 
