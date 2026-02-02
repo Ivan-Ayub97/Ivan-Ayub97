@@ -1,15 +1,25 @@
 <div align="center">
 
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-  <h1 style="display:inline-block">Hi there, I'm <a href="https://github.com/Ivan-Ayub97" style="color:#FF0000; text-decoration:none;">Ivan E. C. Ayub</a></h1>
+  <h1 style="display:inline-block">Hi there</a></h1>
   
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF0000&background=0D111700&center=true&vCenter=true&width=500&lines=Psychology+by+Profession;Hobbyist+Python+Programmer;Professional+PC+Breaker;Multimedia+Tools+Developer" alt="Typing SVG" />
   </a>
 
-  <p align="center" style="max-width: 600px;">
-    <i>Transforming Curiosity into Code: Multimedia, Personalization, and Tools.</i>
+<div align="center">
+  <p style="max-width: 650px; line-height: 1.6;">
+    <span style="font-size: 1.15em; color: #FBC02D; font-family: 'Georgia', serif; font-style: italic;">
+      "We are the consciousness through which the universe comes to know itself; <br> 
+      knowledge is our most human inheritance, and its free exercise <br> 
+      the only path toward true evolution."
+    </span>
+    <br><br>
+    <span style="font-size: 0.85em; color: #888888; letter-spacing: 2px; text-transform: uppercase;">
+      — Ivan E. C. Ayub —
+    </span>
   </p>
+</div>
 
   <p>
     <img src="https://komarev.com/ghpvc/?username=Ivan-Ayub97&label=Profile%20Views&color=FF0000&style=for-the-badge" alt="Ivan-Ayub97" />
@@ -118,5 +128,6 @@
   <p style="font-size: 10px; color: #555;">© 2024 Ivan E. C. Ayub</p>
 
 </div>
+
 
 
