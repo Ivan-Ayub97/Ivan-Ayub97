@@ -1,7 +1,7 @@
 <div align="center">
 
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-  <h1 style="display:inline-block">Hi there</a></h1>
+  <h1 style="display:inline-block">¡Hi there!</a></h1>
   
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF0000&background=0D111700&center=true&vCenter=true&width=500&lines=Psychology+by+Profession;Hobbyist+Python+Programmer;Professional+PC+Breaker;Multimedia+Tools+Developer" alt="Typing SVG" />
@@ -126,6 +126,7 @@
   <p style="font-size: 10px; color: #555;">© 2024 Ivan E. C. Ayub</p>
 
 </div>
+
 
 
 
