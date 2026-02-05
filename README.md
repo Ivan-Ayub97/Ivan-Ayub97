@@ -95,7 +95,6 @@
   <table align="center" style="border:none;">
     <tr>
         <td align="center" style="border:none;"><b>Languages</b></td>
-        <td align="center" style="border:none;"><b>Frameworks & Data</b></td>
         <td align="center" style="border:none;"><b>Tools & Platform</b></td>
     </tr>
     <tr>
@@ -103,19 +102,15 @@
             <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" /><br>
             <img src="https://img.shields.io/badge/Shell_Script-121011?style=flat-square&logo=gnu-bash&logoColor=white" /><br>
             <img src="https://img.shields.io/badge/LaTeX-47A141?style=flat-square&logo=latex&logoColor=white" /><br>
-            <img src="https://img.shields.io/badge/Markdown-000000?style=flat-square&logo=markdown&logoColor=white" />
-        </td>
-        <td align="center" style="vertical-align:top; border:none;">
-            <img src="https://img.shields.io/badge/Qt-41CD52?style=flat-square&logo=qt&logoColor=white" /><br>
-            <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" /><br>
-            <img src="https://img.shields.io/badge/FFmpeg-007808?style=flat-square&logo=ffmpeg&logoColor=white" /><br>
+            <img src="https://img.shields.io/badge/Markdown-000000?style=flat-square&logo=markdown&logoColor=white" /><br>
             <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
         </td>
         <td align="center" style="vertical-align:top; border:none;">
+            <img src="https://img.shields.io/badge/FFmpeg-007808?style=flat-square&logo=ffmpeg&logoColor=white" /><br>
             <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" /><br>
             <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" /><br>
             <img src="https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white" /><br>
-            <img src="https://img.shields.io/badge/Inno_Setup-264F78?style=flat-square&logo=windows&logoColor=white" />
+            <img src="https://img.shields.io/badge/Inno_Setup-264F78?style=flat-square&logo=windows&logoColor=white" /><br>
         </td>
     </tr>
   </table>
@@ -126,6 +121,7 @@
   <p style="font-size: 10px; color: #555;">© 2024 Ivan E. C. Ayub</p>
 
 </div>
+
 
 
 
