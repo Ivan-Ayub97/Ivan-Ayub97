@@ -14,7 +14,7 @@
     </span>
     <br><br>
     <span style="font-size: 0.85em; color: #888888; letter-spacing: 2px; text-transform: uppercase;">
-      — Ivan E. C. Ayub —
+      — From a lazy person, for lazy people —
     </span>
   </p>
 </div>
@@ -26,8 +26,6 @@
   ---
 
   <h3>🏆 Featured Projects</h3>
-
-<b> "From a lazy person, for lazy people." </b>
 
   <table align="center" style="border:none;">
     <tr>
@@ -121,6 +119,7 @@
   <p style="font-size: 10px; color: #555;">© 2024 Ivan E. C. Ayub</p>
 
 </div>
+
 
 
 
