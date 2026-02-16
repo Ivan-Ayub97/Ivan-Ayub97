@@ -33,7 +33,7 @@
         <a href="https://github.com/Ivan-Ayub97/Warlock-Studio">
           <img src="https://raw.githubusercontent.com/Ivan-Ayub97/Ivan-Ayub97/main/Warlock-Studio.png" width="100px" alt="Warlock Studio" style="border-radius:20px; box-shadow: 0px 0px 10px rgba(255, 0, 0, 0.5);"/>
           <br><br>
-          <b>Warlock Studio</b>
+          <b>Warlock-Studio</b>
         </a>
         <br>
         <img src="https://img.shields.io/github/stars/Ivan-Ayub97/Warlock-Studio?style=flat-square&color=FF0000&labelColor=0d1117" />
@@ -119,6 +119,7 @@
   <p style="font-size: 10px; color: #555;">© 2024 Ivan E. C. Ayub</p>
 
 </div>
+
 
 
 
