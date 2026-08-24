@@ -63,25 +63,6 @@
         <br>
         <img src="https://img.shields.io/github/stars/Ivan-Ayub97/Metagify?style=flat-square&color=FF0000&labelColor=0d1117" />
       </td>
-      <td align="center" width="200px">
-        <a href="https://github.com/Ivan-Ayub97/WindowsTweak">
-          <img src="https://raw.githubusercontent.com/Ivan-Ayub97/Ivan-Ayub97/main/WindowsTweak.png" width="100px" alt="WindowsTweak" style="border-radius:20px; box-shadow: 0px 0px 10px rgba(255, 255, 255, 0.5);"/>
-          <br><br>
-          <b>WindowsTweak</b>
-        </a>
-        <br>
-        <img src="https://img.shields.io/github/stars/Ivan-Ayub97/WindowsTweak?style=flat-square&color=FF0000&labelColor=0d1117" />
-      </td>
-      <td align="center" width="200px">
-        <a href="https://github.com/Ivan-Ayub97/Radar-Whisper">
-          <img src="https://raw.githubusercontent.com/Ivan-Ayub97/Ivan-Ayub97/main/Radar-Whisper.png" width="100px" alt="Radar-Whisper" style="border-radius:20px; box-shadow: 0px 0px 10px rgba(255, 0, 255, 0.5);"/>
-          <br><br>
-          <b>Radar-Whisper</b>
-        </a>
-        <br>
-        <img src="https://img.shields.io/github/stars/Ivan-Ayub97/Radar-Whisper?style=flat-square&color=FF0000&labelColor=0d1117" />
-      </td>
-    </tr>
   </table>
 
 ---
